@@ -1,2 +1,2 @@
 # Basic-Info-Compiler
-A macOS app written with AppleScript that compiles info you've given into a short description. Available in three language: Polish, English and Japanese. May add more languages soon.
+This is my first macOS app written with AppleScript! It takes the info you've given to it and puts it into a short description. It's very simple! Available in three language: Polish, English and Japanese. May add more languages soon. 
